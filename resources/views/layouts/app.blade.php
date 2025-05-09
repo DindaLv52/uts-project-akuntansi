@@ -12,9 +12,9 @@
 </head>
 <body>
 
-<div class="d-flex">
+<div class="flex-grow-1 p-2" style="margin-left: 250px;">
     <!-- Sidebar -->
-    <div class="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" style="width: 250px; height: 100vh;">
+    <div class="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" style="width: 250px; height: 100vh; position: fixed; top: 0; left: 0;">
         <a href="/" class="d-flex align-items-center mb-3 mb-md-0 text-white text-decoration-none">
             <span class="fs-4 fw-bold">Dinda Olivia</span>
         </a>
